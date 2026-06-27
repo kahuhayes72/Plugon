@@ -1,0 +1,7 @@
+{
+  "name": "MyCoolPlugin",
+  "description": "Does something cool inside Kettu",
+  "author": "YourName",
+  "version": "1.0.0",
+  "main": "index.js"
+}
